@@ -18,7 +18,7 @@ based systems. This repository represents my current bootloader theme.
 
 ## Note
 
-ince rEFInd has no mechanism for a primary title, the title has been baked into the banner (background) file. A PSD file is provided containing both the raw background and the foreground title as seperate layers such that you can generate your own banner.png from that.
+Since rEFInd has no mechanism for a primary title, the title has been baked into the banner (background) file. A PSD file is provided containing both the raw background and the foreground title as seperate layers such that you can generate your own banner.png from that.
 Replace the file in `themes/DarkoMode/banner.png`
 
 The `banner.png` is at default 1920x1680. Please export the required resolution using the `banner.psd` file provided.
